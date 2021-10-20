@@ -7,7 +7,7 @@
   /* Style the links inside the navigation bar */
   .topnav a {
     float: right;
-    display: flow-root;
+    display: block;
     color: #ffffff;
     text-align: center;
     padding: 10px 12px;
@@ -17,7 +17,7 @@
   
   .title{
     float: left;
-    display: flow-root;
+    display: block;
     color: rgb(255, 255, 255);
     font-size: 22px;
   }

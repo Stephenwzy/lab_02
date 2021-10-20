@@ -1,6 +1,7 @@
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: rgb(24, 91, 167);
+    opacity: 0.7;
     overflow: hidden;
   }
   
@@ -17,10 +18,8 @@
   
   .title{
       position: absolute;
-      bottom: auto;
-      left: auto;
-      color: rgb(0, 0, 0);
-      font-size: 20px;
+      color: rgb(255, 255, 255);
+      font-size: 22px;
   }
 
   /* Change the color of links on hover */

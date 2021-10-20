@@ -52,6 +52,10 @@
     .topnav a:not(.active) {
       display: none;
     }
+
+    .title {
+        display: none;
+    }
     /* Show the icon that should open and close the topnav*/
     .topnav a.icon {
       float: right;

@@ -16,9 +16,11 @@
   }
   
   .title{
+      text-align: center;
+      color: darkgreen;
       font-size: 25px;
   }
-  
+
   /* Change the color of links on hover */
   .topnav a:hover {
     background-color: #ddd;

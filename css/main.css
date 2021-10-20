@@ -16,7 +16,9 @@
   }
   
   .title{
-      position: bottom;
+      position: absolute;
+      bottom: auto;
+      left: auto;
       color: rgb(0, 0, 0);
       font-size: 20px;
   }

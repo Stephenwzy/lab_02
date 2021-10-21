@@ -42,9 +42,14 @@
 }
   
 /* Style for page content */
-  .content {
-    padding: 14px;
-    font-size: 22px;
+.content {
+  line-height: 2;
+  padding: 14px;
+  font-size: 22px;
+}
+
+.content .defimg {
+  left: 500px;
 }
 
 #myVideo{

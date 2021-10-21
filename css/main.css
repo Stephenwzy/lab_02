@@ -86,7 +86,6 @@
 .covercontent .pagination a {
   color: white;
   float: left;
-  left: 500px;
   padding: 8px 16px;
   text-decoration: none;
   transition: background-color .3s;
@@ -95,7 +94,7 @@
 .pagination a {
   color: black;
   float: left;
-  padding: 8px 16px;
+  padding: 18px;
   text-decoration: none;
   transition: background-color .3s;
 }

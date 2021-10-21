@@ -2,10 +2,10 @@
 .topnav {
     background-color: rgb(24, 91, 167);;
     overflow: hidden;
-  }
+}
   
   /* Style the links inside the navigation bar */
-  .topnav a {
+.topnav a {
     float: right;
     display: block;
     color: #ffffff;
@@ -13,41 +13,41 @@
     padding: 10px 12px;
     text-decoration: none;
     font-size: 20px;
-  }
+}
   
-  .title{
+.title{
     float: left;
     display: block;
     color: rgb(255, 255, 255);
     font-size: 22px;
-  }
+}
 
-  /* Change the color of links on hover */
-  .topnav a:hover {
+/* Change the color of links on hover */
+.topnav a:hover {
     background-color: #ddd;
     opacity: 0.8;
     color: black;
-  }
+}
   
-  /* Add an active class to highlight the current page */
-  .topnav a.active {
+/* Add an active class to highlight the current page */
+.topnav a.active {
     background-color: #020202;
     color: white;
-  }
+}
   
-  /* Hide the icon that should open and close the topnav on small screens */
-  .topnav .icon {
+/* Hide the icon that should open and close the topnav on small screens */
+.topnav .icon {
     display: none;
-  }
+}
   
-  /* Style for page content */
+/* Style for page content */
   .content {
     padding: 14px;
     font-size: 22px;
-  }
+}
   
-  /* When the screen is less than 800 pixels wide, */
-  @media screen and (max-width: 800px) {
+/* When the screen is less than 800 pixels wide, */
+@media screen and (max-width: 800px) {
     /* Hide all links, except for the selected tab */
     .topnav a:not(.active) {
       display: none;
@@ -62,13 +62,13 @@
       float: right;
       display: block;
     }
-  }
+}
   
-  /* When the screen is less than 800 pixels wide, if the user clicks on the icon, */
-  /* the "responsive" class attribute will be added to the topnav by the JavaScript code. */
-  /* This media query sets the style for the unfolded topnav. */
-  /* It makes the topnav look good on small screens (display the links vertically instead of horizontally)  */
-  @media screen and (max-width: 800px) {
+/* When the screen is less than 800 pixels wide, if the user clicks on the icon, */
+/* the "responsive" class attribute will be added to the topnav by the JavaScript code. */
+/* This media query sets the style for the unfolded topnav. */
+/* It makes the topnav look good on small screens (display the links vertically instead of horizontally)  */
+ @media screen and (max-width: 800px) {
     .topnav.responsive {
       position: relative;
     }
@@ -84,12 +84,12 @@
       display: block;
       text-align: left;
     }
-  }
+}
 
-  #myVideo {
+#myVideo {
       position: fixed;
       right: 0;
       bottom: 0;
       min-width: 100%;
       min-height: 100%;
-    }
+}

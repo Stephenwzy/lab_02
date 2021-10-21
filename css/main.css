@@ -7,12 +7,13 @@
   /* Style the links inside the navigation bar */
 .topnav a {
     float: right;
-    display: block;
+    display: inline-block;
     color: #ffffff;
     text-align: center;
     padding: 10px 12px;
     text-decoration: none;
     font-size: 20px;
+    border-radius: 5px;
 }
   
 .title{

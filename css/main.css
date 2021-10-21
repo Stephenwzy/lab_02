@@ -53,9 +53,7 @@
       display: none;
     }
 
-    .title {
-        display: none;
-    }
+   
     /* Show the icon that should open and close the topnav*/
     .topnav a.icon {
       float: right;
@@ -71,7 +69,9 @@
     .topnav.responsive {
       position: relative;
     }
-  
+    .title {
+        display: none;
+    }
     .topnav.responsive a.icon {
       position: absolute;
       right: 0;

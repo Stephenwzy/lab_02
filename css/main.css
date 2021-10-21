@@ -95,7 +95,7 @@
     min-height: 100%;
 }
 
-.content {
+.covercontent {
     position:fixed;
     bottom: 0;
     background: rgba(0, 0, 0, 0.5);

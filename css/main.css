@@ -54,8 +54,7 @@
     }
     
     .title {
-        display: -moz-inline-box;
-        opacity: 0;
+        display: none;
     }
    
     /* Show the icon that should open and close the topnav*/

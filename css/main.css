@@ -84,7 +84,7 @@
 .covercontent .pagination a {
   color: white;
   float: right;
-  padding: 4px 10px;
+  padding: 6px 12px;
   text-decoration: none;
   transition: background-color .3s;
 }

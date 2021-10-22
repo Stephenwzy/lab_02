@@ -48,7 +48,11 @@
   font-size: 22px;
 }
 
-
+.thumb {
+  position: absolute;
+  top: 200px;
+  right: 100px;
+}
 
 
 

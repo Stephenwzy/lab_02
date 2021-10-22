@@ -48,6 +48,15 @@
   font-size: 22px;
 }
 
+.bigtitle {
+  color: #ddd;
+  font-size: 40px;
+  position: fixed;
+  top: 500px;
+  left: 500px;
+  right: 500px;
+  bottom: 500px;
+}
 
 #myVideo{
   position:fixed;

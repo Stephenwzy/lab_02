@@ -59,7 +59,6 @@
 }
 
 .covercontent {
-  line-height: 1;
   position:fixed;
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);

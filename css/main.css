@@ -110,6 +110,8 @@
 }
 
 .pagination a {
+  position: absolute;
+  left: 30px;
   color: black;
   float: left;
   padding: 18px;

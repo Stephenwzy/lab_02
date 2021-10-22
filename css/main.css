@@ -49,6 +49,7 @@
 }
 
 .thumb {
+  background-size: 20px;
   background-color: rgb(59, 59, 59);
   position: absolute;
   top: 55px;

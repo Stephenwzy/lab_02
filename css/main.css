@@ -50,11 +50,11 @@
 
 .thumb {
   background-size: 20px;
-  background-color: rgb(59, 59, 59);
+  background-color: rgb(15, 43, 201);
   position: absolute;
   top: 600px;
   right: 40px;
-  font-size: 20px;
+  font-size: 30px;
   cursor: pointer;
   color:white;
 }

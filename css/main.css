@@ -52,7 +52,7 @@
   background-size: 20px;
   background-color: rgb(59, 59, 59);
   position: absolute;
-  top: 800px;
+  top: 600px;
   right: 40px;
   font-size: 20px;
   cursor: pointer;
@@ -110,8 +110,6 @@
 }
 
 .pagination a {
-  position: absolute;
-  left: 30px;
   color: black;
   float: left;
   padding: 18px;

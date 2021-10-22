@@ -109,6 +109,7 @@
 
 .pagination a:hover:not(.active) {
   background-color: rgb(59, 59, 59);
+  color: white;
 }
 
 

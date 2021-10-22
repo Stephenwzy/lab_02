@@ -51,9 +51,7 @@
 .bigtitle {
   color: #ddd;
   font-size: 40px;
-  position: fixed;
-  top: 500px;
-  left: 600px;
+  position: center;
 }
 
 #myVideo{

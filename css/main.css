@@ -51,7 +51,7 @@
 .thumb {
   background-size: 20px;
   background-color: rgb(15, 43, 201);
-  position: absolute;
+  position: relative;
   top: 550px;
   right: 30px;
   font-size: 30px;

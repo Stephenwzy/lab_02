@@ -25,3 +25,7 @@ function myFunction(){
         btn.innerHTML="Play";
     }
 }
+
+function thumb(x) {
+    x.classList.toggle("fa-thumbs-down");
+  }
